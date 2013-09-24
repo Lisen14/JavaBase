@@ -31,7 +31,7 @@ public class MyUnitBeanTest {
 		mub.setaObject("123123");
 		mub.setAshort((short)12);
 		mub.setInts(new int[]{1,2,3});
-		mub.setUnits(new String[]{"123","12121","1"});
+		mub.setUnits(new String[]{"123","12","1"});
 	}
 	
 	private void initialObj1(MyUnitBean mub){
