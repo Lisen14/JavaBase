@@ -22,7 +22,7 @@ public class MyUnitBeanTest {
 	private void initialObj(MyUnitBean mub){
 		
 		byte b = (byte)1;
-		mub.setAbool(true);
+		mub.setAbool(false);
 		mub.setAbyte(b);
 		mub.setAchar('c');
 		mub.setAdouble(12.3);
